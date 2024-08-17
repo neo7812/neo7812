@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurabh7812
 - 👀 I’m interested in exploring and learning new technologies.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript,typescript
 - 📫 How to reach me ->saurabhu294@gmail.com
 
 <!---
